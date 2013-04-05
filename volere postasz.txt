@@ -1,0 +1,10 @@
+1. Celem jest usprawnienie dzia³ania biura podró¿y, stworzenie ³atwego, przejrzystego systemu wyboru wycieczek oraz innych us³ug w jej ramach.
+2. Zlecajacy- wlasciciel biura podrozy, nabywca- biuro podrozy, osoby majace wplyw na przebieg procesu- klienci biura podrozy, programista, grafik, 
+3. U¿ytkownicy- klienci biura podró¿y
+  -Nazwa u¿ytkownika- Imie nazwisko, dowód osobisty/paszport
+  -Iloœæ u¿ytkowników- grupy, kilka osob, pojedynczy klien
+  -Karta cz³onkowska- czy klient ja posiada, wtedy posiada znizke
+  -D³ugoœæ pobytu- ze wzgledu na ograniczona ilosc miejsc, lepiej widziani sa klienci z dluzszym pobytem w razie zlozenia wniosku w tym samym czasie
+  -Ilosc atrakcji w ramach wycieczki
+  -
+  
