@@ -1,10 +1,46 @@
-1. Celem jest usprawnienie dzia³ania biura podró¿y, stworzenie ³atwego, przejrzystego systemu wyboru wycieczek oraz innych us³ug w jej ramach.
-2. Zlecajacy- wlasciciel biura podrozy, nabywca- biuro podrozy, osoby majace wplyw na przebieg procesu- klienci biura podrozy, programista, grafik, 
-3. U¿ytkownicy- klienci biura podró¿y
+1. Celem jest 
+2. Zlecajacy- wlasciciel biura podrozy, nabywca- biuro podrozy, osoby majace wplyw na przebieg procesu- klienci biura podrozy, pracownicy biura podró¿y 
+3. U¿ytkownicy- a) sprzedawcy, b) w³aœciciel, c)serwisanci, d)administrator,
   -Nazwa u¿ytkownika- Imie nazwisko, dowód osobisty/paszport
   -Iloœæ u¿ytkowników- grupy, kilka osob, pojedynczy klien
-  -Karta cz³onkowska- czy klient ja posiada, wtedy posiada znizke
-  -D³ugoœæ pobytu- ze wzgledu na ograniczona ilosc miejsc, lepiej widziani sa klienci z dluzszym pobytem w razie zlozenia wniosku w tym samym czasie
-  -Ilosc atrakcji w ramach wycieczki
-  -
+  -rola uzytkownika
+  -poziom wiedzy i doœwiadczenie
+  * kluczowi u¿ytkownicy
+  *u¿ytkownicy drugiego poziomu
+  *uzytkownicy trzeciego poziomu
   
+  a)
+  -sprzedawcy
+  -5
+  -przyjmowanie zamówionych wycieczek
+  -wykszta³cenie œrednie
+  -*u¿ytkownicy drugiego poziomu
+  b)
+  -w³aœciciel
+  -1
+  -zarz¹dzanie firm¹
+  -wyzsze wykszta³cenie najwiêksze doœwiadczenie
+  -uzytkownik kluczowy
+  c)
+  -serwisanci
+  -1
+  -naprawa sprzetów
+  -zawodowe, œrednie doœwiadczenie
+  -*trzeciego poziomu
+  d)
+  -administratorzy
+  -1
+  -zarz¹dza i naprawa sieæ/system
+  *uzytkownik kluczowy
+  
+  9.
+  a)przyjmowanie zamówieñ(wycieczek)
+  b)logowanie do systemu
+  c)wystawianie rachunku
+  d)odbieranie mail'i
+  e)odbieranie telefonów
+  f)naprawa sprzêtów
+  g)konserwacja systemu
+  e)zarz¹dzanie pracownikami
+  f)przedstawianie ofert
+  n
