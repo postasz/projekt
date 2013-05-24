@@ -1,46 +1,64 @@
-1. Celem jest 
+1. Celem stworzenia projektu jest usprawnienie pracy biura podró¿y przez wprowadzenie wielu zmian przyspieszaj¹cych obs³uge klienta oraz ³atwy dostep do ofert zarówno w samym punkcie sprzedazy jak i na stronie internetowej biura. Skutkiem szerzej dostêpnej oferty oraz szybszej obs³ugi klienta winien byc wzrost klientów korzystaj¹cych z owego biura, co za tym idzie zwiêkszenie jego dochodów, rozwój placówki, z mozliw¹ rozbudow¹ o kolejne placówki.
 2. Zlecajacy- wlasciciel biura podrozy, nabywca- biuro podrozy, osoby majace wplyw na przebieg procesu- klienci biura podrozy, pracownicy biura podró¿y 
+
 3. U¿ytkownicy- a) sprzedawcy, b) w³aœciciel, c)serwisanci, d)administrator,
-  -Nazwa u¿ytkownika- Imie nazwisko, dowód osobisty/paszport
-  -Iloœæ u¿ytkowników- grupy, kilka osob, pojedynczy klien
-  -rola uzytkownika
+  
+-Nazwa u¿ytkownika- Imie nazwisko, dowód osobisty/paszport
+ 
+ -Iloœæ u¿ytkowników- grupy, kilka osob, pojedynczy klien
+ 
+ -rola uzytkownika
   -poziom wiedzy i doœwiadczenie
   * kluczowi u¿ytkownicy
   *u¿ytkownicy drugiego poziomu
   *uzytkownicy trzeciego poziomu
   
-  a)
+  
+a)
   -sprzedawcy
   -5
   -przyjmowanie zamówionych wycieczek
   -wykszta³cenie œrednie
   -*u¿ytkownicy drugiego poziomu
-  b)
+  
+b)
   -w³aœciciel
   -1
   -zarz¹dzanie firm¹
   -wyzsze wykszta³cenie najwiêksze doœwiadczenie
   -uzytkownik kluczowy
-  c)
+ 
+ c)
   -serwisanci
   -1
   -naprawa sprzetów
   -zawodowe, œrednie doœwiadczenie
   -*trzeciego poziomu
-  d)
+  
+d)
   -administratorzy
   -1
   -zarz¹dza i naprawa sieæ/system
   *uzytkownik kluczowy
   
-  9.
-  a)przyjmowanie zamówieñ(wycieczek)
-  b)logowanie do systemu
-  c)wystawianie rachunku
-  d)odbieranie mail'i
-  e)odbieranie telefonów
-  f)naprawa sprzêtów
-  g)konserwacja systemu
-  e)zarz¹dzanie pracownikami
-  f)przedstawianie ofert
+  
+9.
+  
+a)przyjmowanie zamówieñ(wycieczek)
+  
+b)logowanie do systemu
+  
+c)wystawianie rachunku
+  
+d)odbieranie mail'i
+  
+e)odbieranie telefonów
+  
+f)naprawa sprzêtów
+  
+g)konserwacja systemu
+ 
+ h)zarz¹dzanie pracownikami
+  
+i)przedstawianie ofert
   n
